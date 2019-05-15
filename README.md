@@ -21,7 +21,8 @@ $python3 retrieval_system.py 42.058536 -87.677060 42.057120 -87.674897
 ChinaTown, Chicago   
 41.855250, -87.638077, 41.847162, -87.629216  
 $python3 retrieval_system.py 41.855250 -87.638077 41.847162 -87.629216  
-![ChinaTown]https://raw.github.com/Linco1n3/Aerial-Imagery-Retrieval/blob/master/ChinaTown.png
+![ChinaTown]
+https://raw.github.com/Linco1n3/Aerial-Imagery-Retrieval/ChinaTown.png
 
 Coco Bango, Cancun   
 21.132749, -86.747619, 21.131900, -86.746629   

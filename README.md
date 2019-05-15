@@ -11,11 +11,11 @@ python3.6+
 $python3 retrieval_system.py latitude1 longtitude1 latitude2 longtitude2
 
 ### Break down into end to end tests
-We provide several coordinates and corresponding result.
+We provide several coordinates and corresponding result.  
 Semi-result was made up by tiles and result was cropped by right bounding box.
 
-Tech building, Northwestern University
-42.058536, -87.677060, 42.057120, -87.674897
+Tech building, Northwestern University  
+42.058536, -87.677060, 42.057120, -87.674897  
 $python3 retrieval_system.py 42.058536 -87.677060 42.057120 -87.674897
 
 ChinaTown, Chicago

@@ -16,7 +16,7 @@ Semi-result was made up by tiles and result was cropped by right bounding box.
 
 Tech building, Northwestern University  
 42.058536, -87.677060, 42.057120, -87.674897  
-$python3 retrieval_system.py 42.058536 -87.677060 42.057120 -87.674897
+$python3 retrieval_system.py 42.058536 -87.677060 42.057120 -87.674897   
 https://github.com/Linco1n3/Aerial-Imagery-Retrieval/blob/master/Coco%20Bango.png  
 
 ChinaTown, Chicago   
